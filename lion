@@ -1,0 +1,16 @@
+public class string
+ {
+    public static void main(String[] args)
+ {
+        // Declare and assign a String variable
+        String name = "SAI";
+
+        // Declare and assign an int variable
+        int age = 25;
+
+        // Print the values
+        System.out.println("Name: " + name);
+        System.out.println("Ae: " + age);
+    }
+}
+
